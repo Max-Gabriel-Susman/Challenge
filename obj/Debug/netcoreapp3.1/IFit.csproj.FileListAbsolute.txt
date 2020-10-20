@@ -1,0 +1,12 @@
+/Users/MGS/Desktop/Projects/VSCode/IFit/bin/Debug/netcoreapp3.1/IFit.deps.json
+/Users/MGS/Desktop/Projects/VSCode/IFit/bin/Debug/netcoreapp3.1/IFit.runtimeconfig.json
+/Users/MGS/Desktop/Projects/VSCode/IFit/bin/Debug/netcoreapp3.1/IFit.runtimeconfig.dev.json
+/Users/MGS/Desktop/Projects/VSCode/IFit/bin/Debug/netcoreapp3.1/IFit.dll
+/Users/MGS/Desktop/Projects/VSCode/IFit/bin/Debug/netcoreapp3.1/IFit.pdb
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.csprojAssemblyReference.cache
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.AssemblyInfoInputs.cache
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.AssemblyInfo.cs
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.csproj.CoreCompileInputs.cache
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.dll
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.pdb
+/Users/MGS/Desktop/Projects/VSCode/IFit/obj/Debug/netcoreapp3.1/IFit.genruntimeconfig.cache
